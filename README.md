@@ -19,3 +19,7 @@ https://developer.android.com/studio/write/resource-manager?hl=ja#import
 ## 引数のエラー
 
 デフォルト引数のない変数に値をセットする必要がある
+
+## android:hoge 的なやつ
+
+```Column(modifier = Modifier.padding(16.dp))```　みたいな
