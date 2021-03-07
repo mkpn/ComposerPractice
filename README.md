@@ -11,3 +11,7 @@ https://tech.dely.jp/entry/2020/12/22/170000
 State/Props
 
 https://qiita.com/rio_threehouse/items/7632f5a593cf218b9504
+
+ResourceManager
+
+https://developer.android.com/studio/write/resource-manager?hl=ja#import
