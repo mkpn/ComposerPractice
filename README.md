@@ -27,3 +27,10 @@ https://developer.android.com/studio/write/resource-manager?hl=ja#import
 ## android:hoge 的なやつ
 
 ```Column(modifier = Modifier.padding(16.dp))```　みたいな
+
+## 最新のバージョンだとサンプル通り動かない
+
+preferredHeightとかはheightにリネームされていて、見つからない
+```
+Size modifiers were renamed. Modifier.width/height/size were renamed to requiredWidth/requiredHeight/requiredSize. Modifier.preferredWidth/preferredHeight/preferredSize were renamed to width/height/size.
+```
