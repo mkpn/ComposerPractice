@@ -34,3 +34,8 @@ preferredHeightとかはheightにリネームされていて、見つからな�
 ```
 Size modifiers were renamed. Modifier.width/height/size were renamed to requiredWidth/requiredHeight/requiredSize. Modifier.preferredWidth/preferredHeight/preferredSize were renamed to width/height/size.
 ```
+
+imageResourceもalpha12でdeprecatedになった影響か知らんけどbeta01だと見つからない
+```
+loadFontResource is deprecated. Use fontResource instead. imageResource, loadImageResource, vectorResource, and loadVectorResource are deprecated. Use painterResource instead. (I6b809)
+```
