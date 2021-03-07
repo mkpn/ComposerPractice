@@ -1,5 +1,9 @@
 # ComposerPractice
 
+## Android Studio(2020.3.1 CANARY 8)が必要
+
+https://developer.android.com/jetpack/compose/setup?hl=ja
+
 ## Composeの思想(宣言型 UI ツールキット)
 
 https://developer.android.com/jetpack/compose/mental-model?hl=ja
